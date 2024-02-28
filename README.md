@@ -1,2 +1,2 @@
 # Padrões de projeto ----Mediator
-Apenas um estudante de java tentendo facilitar o entendimento de padroes de projeto(mediator) em java
+Apenas um estudante de java tentando facilitar o entendimento de padroes de projeto(mediator) em java
